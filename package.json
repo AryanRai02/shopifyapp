@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@shopify/shopify-api": "^12.3.0",
+    "autoprefixer": "^10.4.27",
+    "better-sqlite3": "^12.6.2",
+    "cookie-session": "^2.1.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1"
+  }
+}

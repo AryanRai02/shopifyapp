@@ -1,0 +1,26 @@
+{
+    "name": "shopify-embedded-app-client",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vite --port 3000",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@shopify/app-bridge": "^3.7.10",
+        "@shopify/app-bridge-react": "^3.7.10",
+        "@shopify/app-bridge-utils": "^3.5.1",
+        "@shopify/polaris": "^12.8.0",
+        "@shopify/polaris-icons": "^9.2.0",
+        "autoprefixer": "^10.4.27",
+        "postcss": "^8.5.8",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "tailwindcss": "^4.2.1"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.3.1",
+        "vite": "^5.4.0"
+    }
+}
