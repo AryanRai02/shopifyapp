@@ -63,5 +63,5 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
-# Screenshots (if not to be committed)
-screenshots/
+# Screenshots are now committed
+# screenshots/
